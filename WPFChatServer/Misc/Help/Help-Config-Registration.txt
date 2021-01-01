@@ -1,0 +1,16 @@
+Basic setup of the Registration.xml
+
+<Registration>
+  <Properties>
+    <AdminPW>CoviD-19</AdminPW>
+  </Properties>
+</Registration>
+
+AdminPW  - password used by a registered user to elevate someone to system admin.  Must be 8 or more 
+           characters to elevate someone to system administrator.
+
+A system admin can change this password using the /EPASS command
+
+    /EPASS <old PW> <new PW>
+
+

@@ -1,0 +1,12 @@
+Administration Command Help
+-----------------------------------
+
+/ELEVATE    - elevate someone to system administration
+
+/STATUS     - change the status of a registration record
+
+/USERRIGHTS - alter the user rights list
+
+/CHREG      - alter a registered user's record
+
+/REGLIST    - return a list of all registered users

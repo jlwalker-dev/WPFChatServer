@@ -1,0 +1,14 @@
+Forum Command Help
+-----------------------------------
+
+/FORUM [START|END]
+
+    A forum room is a room that has speaker seats.  When you start a
+    forum, nobody can talk publicly except speakers, the room admin, and 
+    room moderators.
+
+    When a forum has been started, the system will not announce when people
+    enter or leave the room.
+
+End of Forum help.
+

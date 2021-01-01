@@ -1,0 +1,18 @@
+Elevate Command Help
+-----------------------------------
+
+/ELEVATE <password>
+
+    Used to elevate a registered user to system administration level.
+    Like many commands, the elevate command is a toggle switch so if
+    you elevate a person who is a system admin, that right is taken
+    away from them.
+
+    The password to elevate a user is stored in the Registration 
+    configuration file.  If the password is less than eight characters
+    in length, it is considered invalid and the elevate command will
+    not work.
+
+    If the Registration configuration file is not present, it will be
+    created with an invalid password that can be changed with a text editor.
+

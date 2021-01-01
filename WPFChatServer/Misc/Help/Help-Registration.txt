@@ -1,0 +1,21 @@
+Registration Help 
+-----------------------------------
+
+The registration system allows a user to register to the chat server so that
+they can enter/create other chat rooms and have access to commands reserved for 
+registered users.
+
+
+/REG    - Enter the email, nick name, and full name to obtain a temporary password.
+
+/LOGIN  - Log onto the system in order to get out of the lobby.  
+
+/PASS   - Allows you to change your password
+
+/RESEND - Resend the verification email
+
+/UPDATE - Update your profile
+
+/VERIFY - Verify your email address
+
+

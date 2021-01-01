@@ -1,0 +1,11 @@
+Away Command Help
+-----------------------------------
+
+/AWAY <message>
+    Sets your away message which is immediately sent to everyone in the current room
+    and if someone contacts you via a private message.  Entering the away command
+    without a message clears your current away message.  You cannot send a message
+    to anyone while your away message is set.
+
+Note
+   When a person is away, their timeout might be set to a longer period of time.

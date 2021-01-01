@@ -1,0 +1,7 @@
+NICK Command Help
+-----------------------------------
+
+/NICK <nick>
+    Sets your nick name to the name provided.  If the nickname is the same as
+    another logged in or registered user, the command will fail.
+

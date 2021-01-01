@@ -1,0 +1,11 @@
+Away Command Help
+-----------------------------------
+
+/EPASS <oldPW> <newPW>
+    Allows the system administrator to change the password to elevate a user to
+    a system administrator.   If the password is less than 8 characters, it is
+    considered invalid and the ELEVATE command is disabled.
+
+    The password for the elevate command is stored in the Register.xml file found
+    the local folder.
+

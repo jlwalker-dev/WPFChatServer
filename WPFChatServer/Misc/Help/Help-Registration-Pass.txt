@@ -1,0 +1,14 @@
+Pass Command Help
+-----------------------------------
+
+/PASS <old password> <new password>
+
+    Used to update your password.  You must enter your old password
+    along with a new password.
+
+    Passwords are made up of letters, numbers, and symbols and are
+    case sensitive.  You may not use a space in your password.
+
+    Passwords must be at least 8 charactes in length.
+
+

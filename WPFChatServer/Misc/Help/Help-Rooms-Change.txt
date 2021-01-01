@@ -1,0 +1,27 @@
+Change Command Help
+-----------------------------------
+
+/CHANGE <command>
+
+    FORUM    - Set a forum room as speaker only or open disucssion
+
+    INVITE   - Add/remove a person to the room's white list
+               Not supported at this time
+
+    MOD      - Make someone a room moderator
+
+    PASSWORD - Change the room's password
+
+    PRIVACY  - Set the room's privacy level 0,1, or 2 (3 & 4 are via other means)
+
+    RECORD   - Set recording on/off
+
+    SEATS    - Set limits on public, private, and speaker seats
+
+    SPEAKER  - Add/edit the speaker list
+
+    TOPIC    - Change the topic for the room
+
+End Change help.
+
+

@@ -1,0 +1,13 @@
+Ignore Command
+-----------------------------------
+
+/IGNORE <nick>
+    Toggles ignoring any messages from the user with the indicated nickname.
+    It will make no difference if the user changes their nickname, their group
+    messages will not be shown to you.  You can not ignore private messages.
+
+    If you do not enter a nickname after the ignore command, you will clear your
+    ignore list.
+
+
+End of Ignore Help.

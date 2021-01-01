@@ -1,0 +1,25 @@
+Change Invite Help
+-----------------------------------
+
+/CHANGE INVITE <nick>
+
+    --- NOT IMPLEMENTED ---
+
+    Adds a user to the room's white list.  When a person tries to enter
+    a private room, they either need a password or to be on the white
+    list.  When a room is set in forum mode, meaning there are speaker
+    seats set up, a person on the whitelist takes one of the speaker
+    seats when they try to enter without a password.
+
+    If the room is set to private/password or private/whitelist then
+    a user on the whitelist can entering the room without a password.
+
+    If you perform an invite command on someone who is on the whitelist, it
+    takes them off the whitelist.
+
+
+/CHANGE INVITE ?
+    Returns a list of those people on the whitelist.
+
+
+End of Invite help.

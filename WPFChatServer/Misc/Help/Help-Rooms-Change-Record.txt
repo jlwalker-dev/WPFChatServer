@@ -1,0 +1,21 @@
+Change Record Help
+-----------------------------------
+
+/CHANGE RECORD ON|OFF
+
+    --- NOT IMPLEMENTED AT THIS TIME ---
+
+Notes
+
+    The record command will record everything that is said or occurs in a room.  Recordings
+    are saved in the format YYYYMMDD-ROOMNAME.TXT and are automatically deleted after a
+    period of time.
+
+    A new set of commands would need to be added to deal with the recordings and to allow
+    people to either read or have them sent to an email address.
+
+    The current command/response system is not well suited to reading a long text file so
+    this would require some thought on how to handle it.
+
+
+End of Msg help.

@@ -1,0 +1,9 @@
+CHREG Command Help - System Admin
+-----------------------------------
+
+/CHREG <email|username|nick> <property> <new value>
+
+    Allows the system administrator to change a property of a users 
+    registration record, including the password.
+
+

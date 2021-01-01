@@ -1,0 +1,11 @@
+Msg Command Help
+-----------------------------------
+
+/MSG <nick> <msg>
+    Send a private message to someone.  They do not have to be in the
+    same room to receive your message, they just need to be on the 
+    chat server.
+
+    Example: /MSG john Where are you going for lunch?
+
+End of Msg help.

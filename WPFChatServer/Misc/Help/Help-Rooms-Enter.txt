@@ -1,0 +1,17 @@
+Enter Command Help
+-----------------------------------
+
+/ENTER <RoomName>
+    This command is used by registered users to enter other chat rooms
+    listed in the system or to create a new chat room.  If the room
+    does not exist, the room is created.
+
+    If a room has a saved profile, then only the room admin or a moderator
+    can load the room for use and a room with the same name will not
+    be created by the ENTER command.
+
+    The person who creates a room with the enter command becomes the room
+    administrator and can save the room profile using the RMSAVE command.
+
+End of ENTER help.
+

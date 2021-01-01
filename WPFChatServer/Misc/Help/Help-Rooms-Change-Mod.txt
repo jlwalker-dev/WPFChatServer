@@ -1,0 +1,12 @@
+Change Mod Help
+-----------------------------------
+
+/CHANGE MOD <nick>
+
+    Add/remove a user to the moderator list for the room.  Moderators
+    have the ability to kick/ban people from the room.
+
+/CHANGE MOD ?
+    Returns a list of all moderators.
+
+End of Msg help.

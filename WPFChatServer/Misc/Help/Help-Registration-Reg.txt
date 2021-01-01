@@ -1,0 +1,17 @@
+Reg Command Help
+-----------------------------------
+
+/REG <email>/<username>/<nickname>/<password>/<fullname>
+    Allows you to register with the chat server.  Enter your information
+    seperated by a forward slash.  An example would be:
+
+    /REG <JSmith@gmail.com>/JSmith/John/ABC123/John Q Smith
+
+    When you enter the REG command, the system break out your information
+    and lists it for you.  Once you are satisfied, send the /REG SAVE
+    command to save your registration.
+
+    After saving, a verification code will be sent to your email address
+    and you can use the verify command to complete the process.
+
+

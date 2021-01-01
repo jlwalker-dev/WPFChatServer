@@ -1,0 +1,16 @@
+Status Command Help - System Admin
+-----------------------------------
+
+/STATUS <email|username|nick> <code>
+
+    Allows the admin to changes a users registration status.  
+    Valid codes include:
+
+        A - Active, verified user
+        I - Inactive, verified user
+        N - Inactive, unverified user
+        P - Verified user during probation period
+        V - Verification pending
+
+    An unverified user cannot be set to a status of A, I or P
+

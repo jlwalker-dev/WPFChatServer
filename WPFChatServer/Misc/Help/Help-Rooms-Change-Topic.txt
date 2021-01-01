@@ -1,0 +1,11 @@
+Change Topic Command Help
+-----------------------------------
+
+/CHANGE TOPIC <text>
+    Sets the topic for the room.  The topic is displayed
+    by the /ROOMS command.  Topic text is limited to 40 
+    characters.
+
+    
+
+End of Msg help.

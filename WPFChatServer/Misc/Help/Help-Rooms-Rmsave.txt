@@ -1,0 +1,17 @@
+RMSAVE Help
+-----------------------------------
+
+/RMSAVE
+
+    This command allows the room administrator to save a room profile.
+    The profile is saved in a data file of the same name as the room.
+
+    A room profile contains information on the owner/administrator, any
+    moderators, room password, seating, and banned users.  A room cannot
+    be saved by anyone who is not the administrator.
+
+    A saved room must be loaded before it can be entered, so that means that
+    someone cannot create a room that already has a saved profile.
+
+End of RMSAVE help.
+

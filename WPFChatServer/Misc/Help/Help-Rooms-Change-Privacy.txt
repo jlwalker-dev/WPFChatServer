@@ -1,0 +1,45 @@
+Change Privacy Help
+-----------------------------------
+
+/CHANGE PRIVACY <0 - 2>
+
+    Privacy settins are 0 (public), 1 (private/password), 2 (private/whitelist), 3 (forum)
+
+    0 (Open to the Public) - Anyone can enter the room and take a public seat. Private
+                             and speaker seats are not available.
+
+    1 (Private/Password)   - You must have a password or be on the whitelist to enter
+                             and you take up a private seat.  Public and speaker seats
+                             are not available.
+
+    2 (Private/Whitelist)  - You must be on the white list to enter.  Public and speaker 
+                             seats are not available.
+
+    3 (Private/Forum)      - This mode is set automatically when speaker seats are assigned
+                             by the /CHANGE SEATS command.
+
+                             Entering the room without a password puts you into a public
+                             seat.  Entering with a password puts you into a private seat.
+                             Entering without a password but being on the white list puts
+                             you into a speaker's seat.  When seats are filled, nobody can
+                             enter the room for that seat type unless the admin expands the
+                             available seats.
+
+                             While set at level 3, people can still talk publicly.
+
+    4 (Forum active)       - When a forum is active, nobody can talk except the speakers
+                             and the system does not announce room activity.  During this
+                             time, anyone can send private messages to anyone who is not
+                             in a speaker seat.
+   
+Notes on Future Direction
+                             People in public seats can only receive messages.  People in
+                             private seats can submit questions to the Q&A board.  Speakers
+                             can speak to everyone.  Admin and moderators can always speak
+                             no matter what privacy level is set.
+
+                             A Q&A system would need to be thought out and set up.
+
+                             Non-registered people might be allowed into a forum room.
+
+End of Privacy help.

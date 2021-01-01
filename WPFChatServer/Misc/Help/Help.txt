@@ -1,0 +1,20 @@
+You must register with the Chat Server before you can leave the lobby or use
+many of the commands.
+
+Chat Server Basics
+---------------------
+/HELP  - Display this help text
+/HELP <subtopic> - Display help message on a subtopic. Example /HELP MSG
+/MSG   - Send a private message to someome
+/NAMES - List nicknames of all connected users, room, and time of their last message
+/NICK  - Change your nickname
+/ROOMS - List available rooms and their topics
+/WHO   - Give details on a nickname
+
+Other Help Topics
+---------------------
+HELP Registration   HELP User          HELP About
+HELP Rooms          HELP Moderator     HELP Config
+
+
+

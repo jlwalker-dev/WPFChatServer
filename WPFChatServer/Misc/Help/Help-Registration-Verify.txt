@@ -1,0 +1,11 @@
+Verify Command Help
+-----------------------------------
+
+/VERIFY <code>
+
+    Enter the code that you receive in the verification email
+    to finalize your registration in the system.  Once you are
+    verified, you can use all of the normal user commands and
+    enter or create chat rooms.
+
+

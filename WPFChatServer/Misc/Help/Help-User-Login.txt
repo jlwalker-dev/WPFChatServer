@@ -1,0 +1,9 @@
+Login Command Help
+-----------------------------------
+
+/Login <email|username> <password>
+    Allows you to log into the chat server using credentials you
+    created using the registration command (/REG).  Registered
+    users can enter or create rooms and have access to commands
+    not available to unregistered users.
+

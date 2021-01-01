@@ -1,0 +1,17 @@
+Moderator Help
+-----------------------------------
+
+A modertator is a user who has been elevated by the room's administrator
+and has the ability to kick or ban a user from the room.
+
+ROOM commands avaialble to moderators
+
+/KICK    Kicks the user from the room and they receive the included message.
+
+/BAN     Bans the user from the room.
+
+/FORUM   Used to start or stop a room's forum
+
+/RMLOAD  Load a room profile and enter the room
+
+End of Moderator help.

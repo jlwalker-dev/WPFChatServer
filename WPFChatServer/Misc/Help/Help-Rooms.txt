@@ -1,0 +1,41 @@
+Room Help
+-----------------------------------
+
+Rooms are areas where people can gather and talk amungst themselves about specific 
+topics, just like in the real world. If you enter a room, then everything you say 
+stays in that room unless you send a private message, which will be delivered to 
+the recipient no matter what room they are currently in.
+
+Anyone can create a new room by simply using the /ENTER command and giving a unique 
+room name.  When you create a room, you automatically become the administrator of 
+that room.  As long as someone stays in the room, the room will exist.  When the last 
+person leaves the room, the room will dissapear.
+
+The following commands are related to room use:
+
+/BAN      - Ban a user from the room or get a list of banned uses
+
+/ENTER    - Create a room, or if it already exists then enter the room
+
+/CHANGE   - Admins can change the room's seating capacity and other properties
+
+/FORUM    - Start or end a forum session
+
+/IGNORE   - Ignore someone in the same room
+
+/KICK     - An admin or moderator can kick someone from a room
+
+/MSG      - Send a private message to someone in this or another room
+
+/RMINFO   - Lists room information
+
+/RMLOAD   - Load a room profile and enter it
+
+/RMSAVE   - Save a room profile
+
+/ROOMS    - Returns a list of all rooms on the system
+
+To get help on a command, use the /HELP command.  
+   Example: /HELP ENTER gets help for the /ENTER command.
+
+

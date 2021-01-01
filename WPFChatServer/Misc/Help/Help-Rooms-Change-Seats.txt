@@ -1,0 +1,30 @@
+Change Seats Help
+-----------------------------------
+
+/CHANGE SEATS <seat info>
+    There are three types of seats in a room.  Public, private, and
+    speaker.  Speaker seats are not used unless you are setting up
+    a forum room.
+
+    Public seats are taken up by anyone entering the room without a password 
+    or being on a white list.  Private seats are taken up by someone entering 
+    with the password assigned to the room.  Speaker seats are taken by users 
+    who enter and are on the speaker white list.
+
+    When a room is first created, the seating is set up as 20 public seats and
+    no private or speaker seats.
+
+    Defining seats are done in the following format: 20/10/0 which are in the
+    order of public/private/speaker.  If the room has speaker seats, then
+    people in public seats cannot participate in discussions, only listen.
+    Additionally, people in private seats can only submit questions to the
+    room's Q&A board.
+
+    Admin and moderators can always speak, no matter what seat they occupy.
+    
+    Example: /CHANGE SEATS 10/20/0
+        Set up 10 public seats and 20 private seats.  If the room's privacy 
+        setting is 0, then evryone can talk.  If the room's privacy setting
+        is not 1 or 2, then nobody can occupy public seating.
+
+End of Msg help.

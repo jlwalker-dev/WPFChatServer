@@ -1,0 +1,19 @@
+RMLOAD Help
+-----------------------------------
+
+/RMLOAD <room profile> [<new name>]
+
+    This command allows you to load a room profile, optionally under
+    a different room name if the profile is not password protected.
+
+    A room profile contains information on the owner/administrator, any
+    moderators, room password, seating, and banned users.  A room cannot
+    be loaded by anyone who is not the administrator or a moderator. A room
+    can be loaded under a different room name, by anyone if it is not password 
+    protected, be modified and then saved as that new room.
+
+    A saved room must be loaded before it can be entered, so that means that
+    someone cannot create a room that already has a saved profile.
+
+End of RMLOAD help.
+

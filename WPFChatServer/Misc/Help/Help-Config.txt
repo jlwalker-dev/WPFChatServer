@@ -1,0 +1,17 @@
+Configuration Help
+---------------------
+
+There are several configuarion files in the system.
+
+Registration.xml  - holds all settings related to registration options.
+
+WPFChatServer.xml - holds settings related to the basic chat server setings
+
+SendSMTP.xml      - holds the settings for sending the verification email
+
+Further help on each can be found with
+
+HELP CONFIG Registration
+HELP CONFIG WPFChatServer
+HELP CONFIG SendSMTP
+

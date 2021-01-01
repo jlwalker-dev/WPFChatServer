@@ -1,0 +1,12 @@
+Kick Command Help
+-----------------------------------
+
+/KICK <email|username|nickname> <message>
+    Allows a room admin or moderator kick somebody back to the LOBBY.
+    An optional message can be delivered to the person kicked as to
+    why they were kicked out.  The kick command is temporary and the
+    user can immediately return to the room unless they are on the
+    BAN list.
+
+End Kick Help.
+

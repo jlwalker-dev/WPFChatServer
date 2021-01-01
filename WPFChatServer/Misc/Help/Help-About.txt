@@ -1,0 +1,22 @@
+About WPF Chat Server 
+===================================
+
+Author  : Jon Walker (jlwalker.dev@gmail.com)
+Version : 1.0
+License : None - use as you see fit
+Platform: Windows 10
+Purpose : Educational
+Released: 1/1/2021
+
+This chat server is designed to connect with anyone using the ComPack DLL chat server
+protocols on the local network.  This project is inteded to be educational and is not 
+intended nor advised to be used over the internet or in a production environment.
+
+This system was written entirely in C# using Microsoft Visual Studio 2019 - Community Version
+
+This system was written as an educational tool and limited the use of advanced development 
+concepts in hopes to provide a platform for people learning C#.
+
+Source avilable at: https://github.com/jlwalker-dev/ChatServer
+
+

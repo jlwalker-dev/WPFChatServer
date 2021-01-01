@@ -1,0 +1,11 @@
+Update Command Help
+-----------------------------------
+
+/UPDATE <property> <new value>
+
+    Used to update a value in your registration record.  Valid properties
+    you can update are: EMAIL, FULLNAME, NICKNAME, USERNAME
+
+    If you wish to change your password, you must use the /PASS command.
+
+

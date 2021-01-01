@@ -1,0 +1,10 @@
+Resend Command Help
+-----------------------------------
+
+/RESEND
+
+    Sends the verification email again to your email listed
+    in the registration record.   You will receive a validation
+    code that is used with the /VERIFY command.
+
+

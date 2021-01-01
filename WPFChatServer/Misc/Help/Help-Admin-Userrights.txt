@@ -1,0 +1,29 @@
+UserRights Help - System Admin
+-----------------------------------
+
+/USERRIGHTGS <email|username|nick> <rights list>
+
+    Allows the system admin to change a users rights.  The rights list is a 
+    series of values seperated by the forward slash.  An example might 
+    be "/CREATE/SINGLE/GROUP/".
+
+    The unmodified system does not recognize any special rights other than
+    the ADMIN right and the USERRIGHTS command cannot be used to enter or
+    remove the ADMIN right.
+
+    At this time, this command will simply fill the rights field with characters
+    that can be used once the chat server is modified to recognize them.  Each
+    time you enter a list of rights, it overwrites the list (except for ADMIN).
+
+Thoughts on Future Use
+
+    This command might be used to control who can create a room, or provide
+    further control of rooms like who can save/load a room.
+
+    Could add control on who has rights to send private messages or be allowed
+    to set an away message with longer timeouts.
+
+    Could be used to create a System Moderator who has ability to modify user
+    information and mark room profiles as unacceptable which sets the room
+    to room admin entry only with message as to what the problem is so room admin 
+    can make changes.

@@ -1,0 +1,15 @@
+REGLIST Command Help - System Admin
+-----------------------------------
+
+/REGLIST <range>
+
+    Returns a list of all registered users.  <range> referes to
+    the nicknames of all users.  Entering A-G returns all nicknames
+    that begin with a letter between A through G.  Entering a range
+    of SM-TY returns a list of all nicknames that begin with letters
+    that fall within that range.  Entering just B returns a list of
+    all users who's nicknames start with the letter B.
+
+    Entering no range will return a list of all registered users.
+
+

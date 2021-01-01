@@ -1,0 +1,26 @@
+Basic setup of the SendSMTP.xml
+
+<SendSMTP>
+  <SMTPProperties>
+    <Account>xxx@gmail.com</Account>
+    <ReplyTo>NoReply@ChatServer.org</ReplyTo>
+    <Password>yyyyyyy</Password>
+    <Gateway>smtp.gmail.com</Gateway>
+    <Port>587</Port>
+    <EnableSSL>Y</EnableSSL>
+    <UseHTML>Y</UseHTML>
+    <UseAttachments>N</UseAttachments>
+    <Subject>Welcome to Chat Services</Subject>
+    <Message>Your verification code is <h2>{0}</h2>.\r\n\r\nLog into the chat server and use <b>/VERIFY {0}</b> to complete your email verification.</Message>
+  </SMTPProperties>
+</SendSMTP>
+
+Account, Password - Account login information
+ReplyTo           - Reply to information for outgoing email
+Gateway           - SMTP server to use
+Port              - Outgoing SMTP port
+EnableSSL         - Do we use secure sockets?
+UseHTML           - Is the body of the email message using HTML formatting codes?
+UseAttachement    - Allows the use of attachments in the email
+Subject           - Subject of the verification email
+Message           - Body of the verification email.  {0} indicates where to put the verification code in the message.

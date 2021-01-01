@@ -1,0 +1,8 @@
+Who Command Help
+-----------------------------------
+
+/WHO <nick>
+    Returns detailed information on the user indicated by their nick name.
+    Information includes Name and IP Address.  The registered user does
+    not have to be online in order to use the WHO command.
+

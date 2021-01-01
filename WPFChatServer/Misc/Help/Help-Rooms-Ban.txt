@@ -1,0 +1,21 @@
+BAN Command Help
+-----------------------------------
+
+/BAN <user> <message>
+    Bans the user from the room and they are no longer permitted to
+    enter the room until they are removed from the ban list.  The
+    optional message will be given to the user.  The /BAN ? command
+    returns a list of everyone who's currently banned for this room.
+
+    If a person is already on the ban list, entering them with the
+    BAN command will take them off the list.
+
+    The BAN list is provided each time you use the BAN command.
+
+    The BAN command will not kick someone from a room, it will only
+    prevent them from entering it.  Once a person is on the ban list
+    you can use the kick command to remove them from the room.
+
+End BAN help.
+
+

@@ -1,0 +1,14 @@
+<SendSMTP>
+  <SMTPProperties>
+    <Account>___YourEmail@gmail.com___</Account>
+    <ReplyTo>___DoNotReply@gmail.com___</ReplyTo>
+    <Password>___YourPassword___</Password>
+    <Gateway>smtp.gmail.com</Gateway>
+    <Port>587</Port>
+    <EnableSSL>Y</EnableSSL>
+    <UseHTML>Y</UseHTML>
+    <UseAttachments>N</UseAttachments>
+    <Subject>Welcome to Chat Services</Subject>
+    <Message>Your verification code is <h2>{0}</h2>.\r\n\r\nLog into the chat server and use <b>/VERIFY {0}</b> to complete your email verification.</Message>
+  </SMTPProperties>
+</SendSMTP>

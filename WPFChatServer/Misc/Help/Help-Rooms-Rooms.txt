@@ -1,0 +1,10 @@
+ROOM Command
+-----------------------------------
+
+/ROOMS
+    Lists all rooms currently active in the system.
+
+Notes on future use
+    Only list the rooms available for entry or perhaps list rooms as public/private.
+
+    

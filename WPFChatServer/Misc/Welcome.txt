@@ -1,0 +1,15 @@
+You have connected to a Chat Server
+
+   ___  
+  /___  ||
+ //     ||       ____   ___||__
+||      ||_     / ___ \ ___  __
+||      ||_ \   ||   | |   ||
+\\___   ||  \\  ||___| |   ||__
+ \___   ||   || \____/||    \__   S E R V E R
+
+
+Made by Jon Walker
+Expanding upon code found on the web
+
+Released 1/1/2021 - Ver 1.4

@@ -1,0 +1,6 @@
+ONLINE Command Help
+-----------------------------------
+
+/ONLINE <nick>
+    Returns a list of all currently active users.
+

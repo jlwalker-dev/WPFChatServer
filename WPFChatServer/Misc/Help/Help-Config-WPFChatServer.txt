@@ -1,0 +1,16 @@
+Basic setup of the WPFChatServer.xml
+
+<Table>
+  <Properties>
+    <AutoRun>Y</AutoRun>
+    <Debug>1</Debug>
+    <Port>6667</Port>
+  </Properties>
+</Table>
+
+AutoRun - Do we automatically start the chat server when the exe is executed
+
+Debug   - Amount of verbosity in the debug log.  0 = none, 1=errors only, 5=warnings, 7=issues, 9=everthing
+
+Port    - The port the chat server listens on
+
